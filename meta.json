@@ -1,0 +1,27 @@
+{
+  "repo": "rust-external-menu",
+  "product": "Rust External Menu",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "gaming-companion",
+  "topics": [
+    "rust-external-menu",
+    "rust-desktop",
+    "rust-windows",
+    "gaming-companion",
+    "match-overlay",
+    "performance-tuning",
+    "in-game-tools",
+    "competitive-play",
+    "desktop-gaming",
+    "windows-gaming",
+    "overlay-panel",
+    "precision-assist",
+    "spatial-awareness",
+    "reaction-profiles"
+  ],
+  "site": "zentool.art"
+}
